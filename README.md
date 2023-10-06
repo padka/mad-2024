@@ -63,3 +63,5 @@
 
 ### Дополнительные материалы
 + https://www.jetbrains.com/help/idea/using-git-integration.html
+
+Срок сдачи работы до 11.10.2023
